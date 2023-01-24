@@ -1,0 +1,26 @@
+# A CiSE Special Issue on Learnings from Collegeville Workshop 2021
+
+<!-- deck text start --> 
+The 2021 Collegeville workshop focused on the role of teams. This CiSE special issue, published in June 2022,  contains five articles selected from the collection of white papers and teatime submissions to this workshop.
+<!-- deck text end --> 
+
+#### Contributed by [Rinku Gupta](https://github.com/rinkug)
+#### Publication date: January 25, 2022
+
+
+Article information | Details 
+:--- | :---
+Title  | Computing in Science & Engineering - Collegeville Workshop 2021: Scientific Software Teams
+Authors | Mike Heroux, Jeffrey Carver and Sarah Knepper
+Publication | Year 2022, The  Journal of Computing in Science & Engineering- Vol 24 - Issue 3, DOI: [10.1109/MCSE.2022.3180488](https://doi.org/10.1109/MCSE.2022.3180488)
+
+
+*The Collegeville Workshop Series on Scientific Softwarea brings together members from the academic, industry, and research laboratory communities to discuss important and emerging topics in the development and use of software for scientific discovery. The 2021 workshopb focused on the role of teams. This special issue contains five articles selected from the 26 white papers and teatime submissions to the workshop.
+
+Scientific software development is primarily a team activity. In addition, team members are also often users of the same software base, either in the direct pursuit of generating and publishing new scientific results or in providing their software to an application environment that can assist other scientists who are producing and publishing results.
+
+<!---
+Publish: yes
+Categories: planning, performance
+Topics: software interoperability, high-performance computing (HPC)
+--->
